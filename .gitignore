@@ -1,0 +1,12 @@
+# IDEs (DataGrip, PyCharm, VS Code)
+.idea/
+.vscode/
+*.iml
+
+# Baze de date locale (dacă apar fișiere de log)
+*.log
+
+# Python / FastAPI (pregătire pentru viitor)
+venv/
+__pycache__/
+*.pyc
